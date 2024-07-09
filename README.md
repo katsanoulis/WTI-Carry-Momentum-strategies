@@ -2,7 +2,7 @@
 
 ## Algorithms
 
-These Jupyter notebooks implement the Carry as well as the Carry-Momentum strategies for WTI futures. Details about the two strategies can be found inside the notebooks. Here these two strategies are benchmarked against the results presented in [1] for 2023 and then are used to produce results for the one-year period from June 2023 to June 2024. The data for WTI is downloaded from the IBKR platform using the IB-insync library.
+These Jupyter notebooks implement the Carry as well as the Carry-Momentum strategy for WTI futures. Details about the two strategies can be found inside the notebooks. Here these two strategies are benchmarked against the results presented in [1] for 2023 and then are used to produce results for the one-year period from June 2023 to June 2024. The data for WTI is downloaded from the IBKR platform using the IB-insync library.
 
 ## Returns
 
